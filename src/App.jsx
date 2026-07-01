@@ -1,3 +1,4 @@
+import Certification from "./components/Certification.jsx";
 import Navbar from "./components/Navbar.jsx";
 import About from "./components/About.jsx";
 import Skills from "./components/Skills.jsx";
@@ -91,6 +92,7 @@ function App() {
       
       <About />
       <Skills />
+      <Certification />
       <Projects />
       <Contact />
       <Footer />
